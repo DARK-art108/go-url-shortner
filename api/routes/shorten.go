@@ -1,9 +1,9 @@
 package routes
 
 import (
-	"fiber"
 	"time"
 
+	"github.com/DARK-art108/go-url-shortner/helpers"
 	"github.com/gofiber/fiber/v2"
 )
 
