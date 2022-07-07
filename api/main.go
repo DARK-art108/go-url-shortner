@@ -5,6 +5,7 @@ import (
 	"log"
 	"os"
 
+	"github.com/DARK-art108/go-url-shortner/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/joho/godotenv"
